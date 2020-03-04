@@ -38,6 +38,6 @@ public class _1162AsFarFromLandAsPossible {
             }
             level++;
         }
-        return level < 0 ? -1 : level;
+        return level <= 0 ? -1 : level;
     }
 }
