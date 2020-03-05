@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CloneGraph/CloneGraph.iml" filepath="$PROJECT_DIR$/CloneGraph/CloneGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CourseSchedule/CourseSchedule.iml" filepath="$PROJECT_DIR$/CourseSchedule/CourseSchedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaluateDivision/EvaluateDivision.iml" filepath="$PROJECT_DIR$/EvaluateDivision/EvaluateDivision.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HHJGraph.iml" filepath="$PROJECT_DIR$/.idea/HHJGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" filepath="$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NuberOfIslands/NuberOfIslands.iml" filepath="$PROJECT_DIR$/NuberOfIslands/NuberOfIslands.iml" />
     </modules>
   </component>
 </project>
