@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/HHJGraph.iml" filepath="$PROJECT_DIR$/.idea/HHJGraph.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" filepath="$PROJECT_DIR$/KeysAndRooms/KeysAndRooms.iml" />
       <module fileurl="file://$PROJECT_DIR$/NuberOfIslands/NuberOfIslands.iml" filepath="$PROJECT_DIR$/NuberOfIslands/NuberOfIslands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortestPathVisitingAllNodes/ShortestPathVisitingAllNodes.iml" filepath="$PROJECT_DIR$/ShortestPathVisitingAllNodes/ShortestPathVisitingAllNodes.iml" />
     </modules>
   </component>
 </project>
